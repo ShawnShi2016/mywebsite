@@ -16,14 +16,9 @@ p, li {
   /* line-height 后而可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
   line-height: 2;
   letter-spacing: 1px;
-  background-color: green;
-  padding: 20px;
+  /* background-color: green; */
+  /* padding: 20px;
   margin: 40px;
   width: 200px;
-  text-shadow: 3px 3px 3px black;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
+  text-shadow: 3px 3px 3px black; */
 }
