@@ -1,9 +1,5 @@
 html {
-  /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
-  font-size: 20px;
-  /* Google fonts 输出的 CSS */
-  font-family: 'Open Sans', sans-serif;
-  background-color: #b7d6f3;
+  background-color: lightcyan;
 }
 
 h1 {
